@@ -1,0 +1,1 @@
+docker image build --tag adityakshettri/fs-layers-demo:v10 .

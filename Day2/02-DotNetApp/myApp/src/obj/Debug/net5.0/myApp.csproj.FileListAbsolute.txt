@@ -1,0 +1,16 @@
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.exe
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.deps.json
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.runtimeconfig.json
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.runtimeconfig.dev.json
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.dll
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\ref\myApp.dll
+D:\Day2\02-DotNetApp\myApp\src\bin\Debug\net5.0\myApp.pdb
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.csprojAssemblyReference.cache
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.AssemblyInfoInputs.cache
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.AssemblyInfo.cs
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.csproj.CoreCompileInputs.cache
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.dll
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\ref\myApp.dll
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.pdb
+D:\Day2\02-DotNetApp\myApp\src\obj\Debug\net5.0\myApp.genruntimeconfig.cache

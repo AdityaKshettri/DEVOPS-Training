@@ -1,0 +1,1 @@
+docker image build --build-arg ENV_NAME="My Customer Argument" --tag adityakshettri/docker-iis-staticwebsite:V10 .

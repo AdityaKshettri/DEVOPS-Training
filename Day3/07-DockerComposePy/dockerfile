@@ -1,0 +1,10 @@
+FROM python:3.7-alpine
+WORKDIR /code
+ENV FLASK-API=app-py
+ENV FLASK_RUN_HOST=0.0.0.0
+RUN apk add --no-cache gcc musl-dev linux-headers
+COPY appdependencies.txt appdependencies.txt
+RUN pip install -r appdependencies.txt
+EXPOSE 5000
+COPY . .
+CMD ["flask", "run"]

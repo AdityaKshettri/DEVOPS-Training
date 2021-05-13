@@ -1,0 +1,6 @@
+# escape=`
+FROM mcr.microsoft.com/windows/nanoserver:1809
+VOLUME c:\app\config
+VOLUME C:\app\logs
+USER ContainerAdministrator
+ENTRYPOINT cmd /S /C

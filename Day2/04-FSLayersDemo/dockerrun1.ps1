@@ -1,0 +1,1 @@
+docker container run -it --name c1 adityakshettri/fs-layers-demo:v10

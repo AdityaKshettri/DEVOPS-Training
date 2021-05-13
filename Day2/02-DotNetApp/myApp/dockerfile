@@ -1,0 +1,17 @@
+# Build State
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS builder
+
+WORKDIR /src
+COPY src/ .
+
+USER ContainerAdministrator
+
+RUN dotnet restore && dotnet publish
+
+# Final Image State
+FROM mcr.microsoft.com/dotnet/sdk:5.0
+
+WORKDIR /dotnetapp
+COPY --from=builder /src/bin/debug/net5.0/publish .
+
+CMD ["dotnet", "myApp.dll"]

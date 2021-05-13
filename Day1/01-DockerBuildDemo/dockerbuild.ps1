@@ -1,0 +1,1 @@
+docker image build --tag adityakshettri/nanoserver-ps-app:V11 .

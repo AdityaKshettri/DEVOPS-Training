@@ -1,0 +1,2 @@
+FROM adityakshettri/fs-layers-demo:v10
+RUN echo 'from image 2' > c:\data\file2.txt

@@ -1,0 +1,1 @@
+docker container run --detach --publish 8081:80 adityakshettri/docker-iis-staticwebsite:V10

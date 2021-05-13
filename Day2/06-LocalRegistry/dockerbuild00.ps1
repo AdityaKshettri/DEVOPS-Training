@@ -1,0 +1,1 @@
+docker image build --network "Default Switch" --tag adityakshettri/my-docker-registry:v10 .

@@ -1,0 +1,1 @@
+docker run adityakshettri/docker-dotnetconsole-demo:V10

@@ -1,0 +1,1 @@
+docker image push adityakshettri/docker-dotnetconsole-demo:V10

@@ -1,0 +1,11 @@
+# Use an image of nginx
+# Name container as Nginx-test
+# Create a deployment
+
+kubectl create deployment nginx-test --image=nginx
+
+kubectl create service nodeport nginx-test --tcp=80:80
+
+kubectl get service
+
+# get nginx port and open it using localhost

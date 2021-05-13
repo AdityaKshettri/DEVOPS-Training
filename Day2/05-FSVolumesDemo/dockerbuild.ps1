@@ -1,0 +1,1 @@
+docker image build --tag adityakshettri/fs-volumes-demo:v10 .
